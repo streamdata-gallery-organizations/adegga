@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/308-adegga
 x-kinRank: "7"
 x-alexaRank: "2505813"
 tags: Adegga
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/adegga/master/_listings/adegga/apis.md
 specificationVersion: "0.14"
 apis: []
